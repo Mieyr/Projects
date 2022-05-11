@@ -1,2 +1,2 @@
-# Projects-
+# Projects
 Any project that I did, I guess...
