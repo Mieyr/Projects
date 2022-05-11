@@ -1,7 +1,8 @@
 # Basic Information
 Project Title: Random Project 1  
-Date Created: April 16  
+Date Created: April 16 2022  
 Latest Version: 1.1  
+Last Update: May 12 2022  
 
 # Key Features
 1. Trivia
