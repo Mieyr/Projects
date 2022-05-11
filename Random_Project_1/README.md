@@ -3,7 +3,7 @@
 Project Title: Random Project 1  
 Start Date: April 16 2022  
 Language: Python  
-Version: 1.0
+Latest Version: 1.0
 
 # Key Features
 
