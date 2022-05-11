@@ -1,0 +1,1 @@
+Fun_Fact_List = ['You only have 1 life :D', 'I suck at programming.']
